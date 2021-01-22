@@ -1,5 +1,5 @@
-Don't take it very seriously.
+#It is a base for future projects.
 
-Project name: PROJECT_NAME
+Empty Symfony 5 project with only one HomePageController and Apache bundle.
 
 
