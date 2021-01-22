@@ -1,0 +1,4 @@
+name: symfony-project
+recipe: symfony
+config:
+  webroot: public
